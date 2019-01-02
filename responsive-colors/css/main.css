@@ -59,8 +59,11 @@ footer {
 /* Change the background colors below */
 
 @media (min-width: 768px) {
+  body {
+    background: gray;
+  }
   header {
-    background-color: ;
+    background-color: white;
   }
 
   #column-1 {
@@ -76,7 +79,7 @@ footer {
   }
 
   footer {
-    background-color: ;
+    background-color: white;
   }
 
 }
@@ -84,8 +87,11 @@ footer {
 
 /*---------- Desktops ----------*/
 @media (min-width: 1200px) {
+  body {
+    background: darkgray;
+  }
   header {
-    background-color: ;
+    background-color: white;
   }
 
   #column-1 {
@@ -104,7 +110,7 @@ footer {
   }
 
   footer {
-    background-color: ;
+    background-color: white;
   }
 
 }
