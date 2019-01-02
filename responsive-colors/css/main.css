@@ -64,7 +64,7 @@ footer {
   }
 
   #column-1 {
-    background-color: mediumblue;
+    background-color: mediumpurple;
   }
 
   #column-2 {
@@ -72,7 +72,7 @@ footer {
   }
 
   #column-3 {
-    background-color: mediumpurple;
+    background-color: mediumblue;
   }
 
   footer {
@@ -90,14 +90,17 @@ footer {
 
   #column-1 {
     background-color: skyblue;
+    width:33.33%;
   }
 
   #column-2 {
     background-color: slateblue;
+    width:33.33%;
   }
 
   #column-3 {
     background-color: royalblue;
+    width:33.33%;
   }
 
   footer {
